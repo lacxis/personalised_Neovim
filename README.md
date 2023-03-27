@@ -3,16 +3,16 @@ An IDE-like vim editor that makes coding much easier and fun
 
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started or follow this steps to use my personalise features
 
-## Step 1
+### Step 1
 - ```git clone https://github.com/lacxis/personalised_Neovim.git  ~/.config/nvim```
 
-## step 2
+### step 2
 - ```rm -rf ~/.config/nvim/.git```
 
-## step 3
+### step 3
 - ```nvim```
 
-Some of the features include
+# Some of the features include
 
 - File exploreer(where you can add, delete and edit a file without going to your terminal)![Screenshot (134)](https://user-images.githubusercontent.com/111117555/227892700-2e60bbbe-a8f7-4035-9706-cd72ac577050.png)
 
