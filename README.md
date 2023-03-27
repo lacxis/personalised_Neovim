@@ -1,7 +1,7 @@
 # personalised_Neovim 💤 LazyVim
 An IDE-like vim editor that makes coding much easier and fun
 
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started or follow this steps to use my personalise features
+Refer to the [documentation](https://lazyvim.github.io/installation) to get started or follow these 5 steps to use my personalise features
 
 ### Step 1
 - ```git clone https://github.com/lacxis/personalised_Neovim.git  ~/.config/nvim```
