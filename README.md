@@ -7,9 +7,15 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 - ```git clone https://github.com/lacxis/personalised_Neovim.git  ~/.config/nvim```
 
 ### step 2
-- ```rm -rf ~/.config/nvim/.git```
+- ```rm -rf ~/.config/personalised_Neovim/.git```
 
 ### step 3
+- ```mv ~/.config/personalised_Neovim/nvim   ~/.config/nvim ```
+
+### step 4
+- ``` rm -rf ~/.config/personalised_Neovim```
+
+### step 5
 - ```nvim```
 
 # Some of the features include
